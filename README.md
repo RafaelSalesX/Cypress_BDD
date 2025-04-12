@@ -1,13 +1,14 @@
-Cypress BDD Automation
+# Cypress BDD Automation
 
 Automação de testes end-to-end utilizando Cypress com suporte a BDD (Behavior Driven Development), com estrutura baseada em arquivos .feature.
 
-Pré-requisitos
+## Pré-requisitos
+
 Node.js instalado
 
 Git instalado
 
-Instalação e Execução
+## Instalação e Execução
 1. Clone o repositório:
     Abra o terminal e execute o seguinte comando para clonar o repositório:
 
