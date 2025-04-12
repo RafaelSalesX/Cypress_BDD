@@ -19,6 +19,10 @@ Git instalado
     Execute o comando abaixo para instalar todas as dependências do projeto:
 
     - npm install
+    
+    Caso o Cypress ainda não esteja instalado, você pode instalar o Cypress especificamente com o comando:
+
+    - npm install cypress --save-dev
 
 3. Execute os testes com a interface gráfica do Cypress:
     Para abrir o Cypress com a interface gráfica, utilize o seguinte comando:
